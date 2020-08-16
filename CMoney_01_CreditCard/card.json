@@ -1,0 +1,580 @@
+{
+    "discounts": [
+        {
+            "title": "國內-一般消費",
+            "creditcards": [
+                {
+                    "cardName": "國泰-KOKO COMBO卡",
+                    "cardContent": "一般消費*NT$5,000(含)以上.(指定網購/超商/交通/餐廳通路享5.0%)",
+                    "feedbackMethod": "現金",
+                    "discount": 5,
+                    "maximumFeedback": null,
+                    "cardImageUrl": "https://imgur.com/Z1GFm3i.jpg",
+                    "limitTime": "2020/12/31"
+                },
+                {
+                    "cardName": "富邦-J卡",
+                    "cardContent": "純刷實體卡",
+                    "feedbackMethod": "LP 點數",
+                    "discount": 3,
+                    "maximumFeedback": null,
+                    "cardImageUrl": "https://imgur.com/jK1jVqm.jpg",
+                    "limitTime": "2020/12/31"
+                },
+                {
+                    "cardName": "玉山-Pi錢包",
+                    "cardContent": "純刷實體卡",
+                    "feedbackMethod": "Pi 點數",
+                    "discount": 2,
+                    "maximumFeedback": null,
+                    "cardImageUrl": "https://imgur.com/396Npob.jpg",
+                    "limitTime": "2020/12/31"
+                },
+                {
+                    "cardName": "新光-寰宇現金回饋卡",
+                    "cardContent": "綁定台灣PAY",
+                    "feedbackMethod": "現金",
+                    "maximumFeedback": 5000,
+                    "discount": 8.5,
+                    "cardImageUrl": "https://imgur.com/PSXWsiq.jpg",
+                    "limitTime": "2020/12/31"
+                },
+                {
+                    "cardName": "北富-台哥大悠遊聯名卡",
+                    "cardContent": "綁定\"Wali錢包\", 需使用android+NFC的手機",
+                    "feedbackMethod": "現金",
+                    "maximumFeedback": 5000,
+                    "discount": 6,
+                    "cardImageUrl": "https://imgur.com/n6hjAuL.jpg",
+                    "limitTime": "2020/12/31"
+                },
+                {
+                    "cardName": "永豐-幣倍卡",
+                    "cardContent": null,
+                    "feedbackMethod": "現金",
+                    "discount": 8,
+                    "maximumFeedback": 600,
+                    "cardImageUrl": "https://imgur.com/sG0RdsJ.jpg",
+                    "limitTime": null
+                },
+                {
+                    "cardName": "彰銀-MY樂現金回饋卡",
+                    "cardContent": "Pay 7.0% + 國內0.5%,上限150.",
+                    "feedbackMethod": "現金",
+                    "discount": 7.5,
+                    "maximumFeedback": 150,
+                    "cardImageUrl": "https://imgur.com/jYISbRF.jpg",
+                    "limitTime": null
+                },
+                {
+                    "cardName": "花旗-饗樂卡",
+                    "cardContent": "威秀, 周一~周四-2D、3D 享6折優惠(當日限購2張.). \n 周一~周四-IMAX 享75折優惠(最多限購4張.). \n 週五至週日及國定假日或連續假期=>享83折優惠. (最多限購4張.) ",
+                    "feedbackMethod": "現金",
+                    "discount": 40,
+                    "maximumFeedback": null,
+                    "cardImageUrl": "https://imgur.com/KfZNFuN.jpg",
+                    "limitTime": null
+                },
+                {
+                    "cardName": "台中-台中銀行卡",
+                    "cardContent": "新光影城, 天天享66折優惠(當日限購2張.)",
+                    "feedbackMethod": "現金",
+                    "discount": 33,
+                    "maximumFeedback": null,
+                    "cardImageUrl": "https://imgur.com/KAM3uW4.jpg",
+                    "limitTime": null
+                },
+                {
+                    "cardName": "聯邦-微風聯名卡",
+                    "cardContent": "國賓影城, 平日6折起, 每人每卡每日限購當日場次2張.",
+                    "feedbackMethod": "現金",
+                    "discount": 40,
+                    "maximumFeedback": null,
+                    "cardImageUrl": "https://imgur.com/yswm00F.jpg",
+                    "limitTime": "2020/12/31"
+                }
+            ],
+            "explain": null
+        },
+        {
+            "title": "國內-一般消費-手機支付",
+            "explain": "適用於: \n 一般感應刷卡消費+海外一般感應刷卡消費. \n 行動支付,為活動另外加碼.\n 非本身卡片回饋.\n 認定通常為一般消費.\n 只要能刷,皆有回饋,\n 指定排除項目請看銀行官網.\n 海外.\n 感應刷卡.\n 搭捷運...等等,皆有回饋.",
+            "creditcards": [
+                {
+                    "cardName": "國泰-KOKO COMBO卡",
+                    "cardContent": "一般消費*NT$5,000(含)以上.(指定網購/超商/交通/餐廳通路享5.0%)",
+                    "feedbackMethod": "現金",
+                    "discount": 5,
+                    "maximumFeedback": null,
+                    "cardImageUrl": "https://imgur.com/Z1GFm3i.jpg",
+                    "limitTime": "2020/12/31"
+                },
+                {
+                    "cardName": "富邦-J卡",
+                    "cardContent": "純刷實體卡",
+                    "feedbackMethod": "LP 點數",
+                    "discount": 3,
+                    "maximumFeedback": null,
+                    "cardImageUrl": "https://imgur.com/jK1jVqm.jpg",
+                    "limitTime": "2020/12/31"
+                },
+                {
+                    "cardName": "玉山-Pi錢包",
+                    "cardContent": "純刷實體卡",
+                    "feedbackMethod": "Pi 點數",
+                    "discount": 2,
+                    "maximumFeedback": null,
+                    "cardImageUrl": "https://imgur.com/396Npob.jpg",
+                    "limitTime": "2020/12/31"
+                },
+                {
+                    "cardName": "新光-寰宇現金回饋卡",
+                    "cardContent": "綁定台灣PAY",
+                    "feedbackMethod": "現金",
+                    "maximumFeedback": 5000,
+                    "discount": 8.5,
+                    "cardImageUrl": "https://imgur.com/PSXWsiq.jpg",
+                    "limitTime": "2020/12/31"
+                },
+                {
+                    "cardName": "北富-台哥大悠遊聯名卡",
+                    "cardContent": "綁定\"Wali錢包\", 需使用android+NFC的手機",
+                    "feedbackMethod": "現金",
+                    "maximumFeedback": 5000,
+                    "discount": 6,
+                    "cardImageUrl": "https://imgur.com/n6hjAuL.jpg",
+                    "limitTime": "2020/12/31"
+                },
+                {
+                    "cardName": "永豐-幣倍卡",
+                    "cardContent": null,
+                    "feedbackMethod": "現金",
+                    "discount": 8,
+                    "maximumFeedback": 600,
+                    "cardImageUrl": "https://imgur.com/sG0RdsJ.jpg",
+                    "limitTime": null
+                },
+                {
+                    "cardName": "彰銀-MY樂現金回饋卡",
+                    "cardContent": "Pay 7.0% + 國內0.5%,上限150.",
+                    "feedbackMethod": "現金",
+                    "discount": 7.5,
+                    "maximumFeedback": 150,
+                    "cardImageUrl": "https://imgur.com/jYISbRF.jpg",
+                    "limitTime": null
+                },
+                {
+                    "cardName": "花旗-饗樂卡",
+                    "cardContent": "威秀, 周一~周四-2D、3D 享6折優惠(當日限購2張.). \n 周一~周四-IMAX 享75折優惠(最多限購4張.). \n 週五至週日及國定假日或連續假期=>享83折優惠. (最多限購4張.) ",
+                    "feedbackMethod": "現金",
+                    "discount": 40,
+                    "maximumFeedback": null,
+                    "cardImageUrl": "https://imgur.com/KfZNFuN.jpg",
+                    "limitTime": null
+                },
+                {
+                    "cardName": "台中-台中銀行卡",
+                    "cardContent": "新光影城, 天天享66折優惠(當日限購2張.)",
+                    "feedbackMethod": "現金",
+                    "discount": 33,
+                    "maximumFeedback": null,
+                    "cardImageUrl": "https://imgur.com/KAM3uW4.jpg",
+                    "limitTime": null
+                },
+                {
+                    "cardName": "聯邦-微風聯名卡",
+                    "cardContent": "國賓影城, 平日6折起, 每人每卡每日限購當日場次2張.",
+                    "feedbackMethod": "現金",
+                    "discount": 40,
+                    "maximumFeedback": null,
+                    "cardImageUrl": "https://imgur.com/yswm00F.jpg",
+                    "limitTime": "2020/12/31"
+                }
+            ]
+        },
+        {
+            "title": "國內-一般消費-街口支付",
+            "explain": null,
+            "creditcards": [
+                {
+                    "cardName": "國泰-KOKO COMBO卡",
+                    "cardContent": "一般消費*NT$5,000(含)以上.(指定網購/超商/交通/餐廳通路享5.0%)",
+                    "feedbackMethod": "現金",
+                    "discount": 5,
+                    "maximumFeedback": null,
+                    "cardImageUrl": "https://imgur.com/Z1GFm3i.jpg",
+                    "limitTime": "2020/12/31"
+                },
+                {
+                    "cardName": "富邦-J卡",
+                    "cardContent": "純刷實體卡",
+                    "feedbackMethod": "LP 點數",
+                    "discount": 3,
+                    "maximumFeedback": null,
+                    "cardImageUrl": "https://imgur.com/jK1jVqm.jpg",
+                    "limitTime": "2020/12/31"
+                },
+                {
+                    "cardName": "玉山-Pi錢包",
+                    "cardContent": "純刷實體卡",
+                    "feedbackMethod": "Pi 點數",
+                    "discount": 2,
+                    "maximumFeedback": null,
+                    "cardImageUrl": "https://imgur.com/396Npob.jpg",
+                    "limitTime": "2020/12/31"
+                },
+                {
+                    "cardName": "新光-寰宇現金回饋卡",
+                    "cardContent": "綁定台灣PAY",
+                    "feedbackMethod": "現金",
+                    "maximumFeedback": 5000,
+                    "discount": 8.5,
+                    "cardImageUrl": "https://imgur.com/PSXWsiq.jpg",
+                    "limitTime": "2020/12/31"
+                },
+                {
+                    "cardName": "北富-台哥大悠遊聯名卡",
+                    "cardContent": "綁定\"Wali錢包\", 需使用android+NFC的手機",
+                    "feedbackMethod": "現金",
+                    "maximumFeedback": 5000,
+                    "discount": 6,
+                    "cardImageUrl": "https://imgur.com/n6hjAuL.jpg",
+                    "limitTime": "2020/12/31"
+                },
+                {
+                    "cardName": "永豐-幣倍卡",
+                    "cardContent": null,
+                    "feedbackMethod": "現金",
+                    "discount": 8,
+                    "maximumFeedback": 600,
+                    "cardImageUrl": "https://imgur.com/sG0RdsJ.jpg",
+                    "limitTime": null
+                },
+                {
+                    "cardName": "彰銀-MY樂現金回饋卡",
+                    "cardContent": "Pay 7.0% + 國內0.5%,上限150.",
+                    "feedbackMethod": "現金",
+                    "discount": 7.5,
+                    "maximumFeedback": 150,
+                    "cardImageUrl": "https://imgur.com/jYISbRF.jpg",
+                    "limitTime": null
+                },
+                {
+                    "cardName": "花旗-饗樂卡",
+                    "cardContent": "威秀, 周一~周四-2D、3D 享6折優惠(當日限購2張.). \n 周一~周四-IMAX 享75折優惠(最多限購4張.). \n 週五至週日及國定假日或連續假期=>享83折優惠. (最多限購4張.) ",
+                    "feedbackMethod": "現金",
+                    "discount": 40,
+                    "maximumFeedback": null,
+                    "cardImageUrl": "https://imgur.com/KfZNFuN.jpg",
+                    "limitTime": null
+                },
+                {
+                    "cardName": "台中-台中銀行卡",
+                    "cardContent": "新光影城, 天天享66折優惠(當日限購2張.)",
+                    "feedbackMethod": "現金",
+                    "discount": 33,
+                    "maximumFeedback": null,
+                    "cardImageUrl": "https://imgur.com/KAM3uW4.jpg",
+                    "limitTime": null
+                },
+                {
+                    "cardName": "聯邦-微風聯名卡",
+                    "cardContent": "國賓影城, 平日6折起, 每人每卡每日限購當日場次2張.",
+                    "feedbackMethod": "現金",
+                    "discount": 40,
+                    "maximumFeedback": null,
+                    "cardImageUrl": "https://imgur.com/yswm00F.jpg",
+                    "limitTime": "2020/12/31"
+                }
+            ]
+        },
+        {
+            "title": "國內-一般消費-LINEPAY一卡通",
+            "explain": null,
+            "creditcards": [
+                {
+                    "cardName": "國泰-KOKO COMBO卡",
+                    "cardContent": "一般消費*NT$5,000(含)以上.(指定網購/超商/交通/餐廳通路享5.0%)",
+                    "feedbackMethod": "現金",
+                    "discount": 5,
+                    "maximumFeedback": null,
+                    "cardImageUrl": "https://imgur.com/Z1GFm3i.jpg",
+                    "limitTime": "2020/12/31"
+                },
+                {
+                    "cardName": "富邦-J卡",
+                    "cardContent": "純刷實體卡",
+                    "feedbackMethod": "LP 點數",
+                    "discount": 3,
+                    "maximumFeedback": null,
+                    "cardImageUrl": "https://imgur.com/jK1jVqm.jpg",
+                    "limitTime": "2020/12/31"
+                },
+                {
+                    "cardName": "玉山-Pi錢包",
+                    "cardContent": "純刷實體卡",
+                    "feedbackMethod": "Pi 點數",
+                    "discount": 2,
+                    "maximumFeedback": null,
+                    "cardImageUrl": "https://imgur.com/396Npob.jpg",
+                    "limitTime": "2020/12/31"
+                },
+                {
+                    "cardName": "新光-寰宇現金回饋卡",
+                    "cardContent": "綁定台灣PAY",
+                    "feedbackMethod": "現金",
+                    "maximumFeedback": 5000,
+                    "discount": 8.5,
+                    "cardImageUrl": "https://imgur.com/PSXWsiq.jpg",
+                    "limitTime": "2020/12/31"
+                },
+                {
+                    "cardName": "北富-台哥大悠遊聯名卡",
+                    "cardContent": "綁定\"Wali錢包\", 需使用android+NFC的手機",
+                    "feedbackMethod": "現金",
+                    "maximumFeedback": 5000,
+                    "discount": 6,
+                    "cardImageUrl": "https://imgur.com/n6hjAuL.jpg",
+                    "limitTime": "2020/12/31"
+                },
+                {
+                    "cardName": "永豐-幣倍卡",
+                    "cardContent": null,
+                    "feedbackMethod": "現金",
+                    "discount": 8,
+                    "maximumFeedback": 600,
+                    "cardImageUrl": "https://imgur.com/sG0RdsJ.jpg",
+                    "limitTime": null
+                },
+                {
+                    "cardName": "彰銀-MY樂現金回饋卡",
+                    "cardContent": "Pay 7.0% + 國內0.5%,上限150.",
+                    "feedbackMethod": "現金",
+                    "discount": 7.5,
+                    "maximumFeedback": 150,
+                    "cardImageUrl": "https://imgur.com/jYISbRF.jpg",
+                    "limitTime": null
+                },
+                {
+                    "cardName": "花旗-饗樂卡",
+                    "cardContent": "威秀, 周一~周四-2D、3D 享6折優惠(當日限購2張.). \n 周一~周四-IMAX 享75折優惠(最多限購4張.). \n 週五至週日及國定假日或連續假期=>享83折優惠. (最多限購4張.) ",
+                    "feedbackMethod": "現金",
+                    "discount": 40,
+                    "maximumFeedback": null,
+                    "cardImageUrl": "https://imgur.com/KfZNFuN.jpg",
+                    "limitTime": null
+                },
+                {
+                    "cardName": "台中-台中銀行卡",
+                    "cardContent": "新光影城, 天天享66折優惠(當日限購2張.)",
+                    "feedbackMethod": "現金",
+                    "discount": 33,
+                    "maximumFeedback": null,
+                    "cardImageUrl": "https://imgur.com/KAM3uW4.jpg",
+                    "limitTime": null
+                },
+                {
+                    "cardName": "聯邦-微風聯名卡",
+                    "cardContent": "國賓影城, 平日6折起, 每人每卡每日限購當日場次2張.",
+                    "feedbackMethod": "現金",
+                    "discount": 40,
+                    "maximumFeedback": null,
+                    "cardImageUrl": "https://imgur.com/yswm00F.jpg",
+                    "limitTime": "2020/12/31"
+                }
+            ]
+        },
+        {
+            "title": "一般消費-外送服務",
+            "explain": null,
+            "creditcards": [
+                {
+                    "cardName": "國泰-KOKO COMBO卡",
+                    "cardContent": "一般消費*NT$5,000(含)以上.(指定網購/超商/交通/餐廳通路享5.0%)",
+                    "feedbackMethod": "現金",
+                    "discount": 5,
+                    "maximumFeedback": null,
+                    "cardImageUrl": "https://imgur.com/Z1GFm3i.jpg",
+                    "limitTime": "2020/12/31"
+                },
+                {
+                    "cardName": "富邦-J卡",
+                    "cardContent": "純刷實體卡",
+                    "feedbackMethod": "LP 點數",
+                    "discount": 3,
+                    "maximumFeedback": null,
+                    "cardImageUrl": "https://imgur.com/jK1jVqm.jpg",
+                    "limitTime": "2020/12/31"
+                },
+                {
+                    "cardName": "玉山-Pi錢包",
+                    "cardContent": "純刷實體卡",
+                    "feedbackMethod": "Pi 點數",
+                    "discount": 2,
+                    "maximumFeedback": null,
+                    "cardImageUrl": "https://imgur.com/396Npob.jpg",
+                    "limitTime": "2020/12/31"
+                },
+                {
+                    "cardName": "新光-寰宇現金回饋卡",
+                    "cardContent": "綁定台灣PAY",
+                    "feedbackMethod": "現金",
+                    "maximumFeedback": 5000,
+                    "discount": 8.5,
+                    "cardImageUrl": "https://imgur.com/PSXWsiq.jpg",
+                    "limitTime": "2020/12/31"
+                },
+                {
+                    "cardName": "北富-台哥大悠遊聯名卡",
+                    "cardContent": "綁定\"Wali錢包\", 需使用android+NFC的手機",
+                    "feedbackMethod": "現金",
+                    "maximumFeedback": 5000,
+                    "discount": 6,
+                    "cardImageUrl": "https://imgur.com/n6hjAuL.jpg",
+                    "limitTime": "2020/12/31"
+                },
+                {
+                    "cardName": "永豐-幣倍卡",
+                    "cardContent": null,
+                    "feedbackMethod": "現金",
+                    "discount": 8,
+                    "maximumFeedback": 600,
+                    "cardImageUrl": "https://imgur.com/sG0RdsJ.jpg",
+                    "limitTime": null
+                },
+                {
+                    "cardName": "彰銀-MY樂現金回饋卡",
+                    "cardContent": "Pay 7.0% + 國內0.5%,上限150.",
+                    "feedbackMethod": "現金",
+                    "discount": 7.5,
+                    "maximumFeedback": 150,
+                    "cardImageUrl": "https://imgur.com/jYISbRF.jpg",
+                    "limitTime": null
+                },
+                {
+                    "cardName": "花旗-饗樂卡",
+                    "cardContent": "威秀, 周一~周四-2D、3D 享6折優惠(當日限購2張.). \n 周一~周四-IMAX 享75折優惠(最多限購4張.). \n 週五至週日及國定假日或連續假期=>享83折優惠. (最多限購4張.) ",
+                    "feedbackMethod": "現金",
+                    "discount": 40,
+                    "maximumFeedback": null,
+                    "cardImageUrl": "https://imgur.com/KfZNFuN.jpg",
+                    "limitTime": null
+                },
+                {
+                    "cardName": "台中-台中銀行卡",
+                    "cardContent": "新光影城, 天天享66折優惠(當日限購2張.)",
+                    "feedbackMethod": "現金",
+                    "discount": 33,
+                    "maximumFeedback": null,
+                    "cardImageUrl": "https://imgur.com/KAM3uW4.jpg",
+                    "limitTime": null
+                },
+                {
+                    "cardName": "聯邦-微風聯名卡",
+                    "cardContent": "國賓影城, 平日6折起, 每人每卡每日限購當日場次2張.",
+                    "feedbackMethod": "現金",
+                    "discount": 40,
+                    "maximumFeedback": null,
+                    "cardImageUrl": "https://imgur.com/yswm00F.jpg",
+                    "limitTime": "2020/12/31"
+                }
+            ]
+        },
+        {
+            "title": "一般消費-電影",
+            "explain": null,
+            "creditcards": [
+                {
+                    "cardName": "國泰-KOKO COMBO卡",
+                    "cardContent": "一般消費*NT$5,000(含)以上.(指定網購/超商/交通/餐廳通路享5.0%)",
+                    "feedbackMethod": "現金",
+                    "discount": 5,
+                    "maximumFeedback": null,
+                    "cardImageUrl": "https://imgur.com/Z1GFm3i.jpg",
+                    "limitTime": "2020/12/31"
+                },
+                {
+                    "cardName": "富邦-J卡",
+                    "cardContent": "純刷實體卡",
+                    "feedbackMethod": "LP 點數",
+                    "discount": 3,
+                    "maximumFeedback": null,
+                    "cardImageUrl": "https://imgur.com/jK1jVqm.jpg",
+                    "limitTime": "2020/12/31"
+                },
+                {
+                    "cardName": "玉山-Pi錢包",
+                    "cardContent": "純刷實體卡",
+                    "feedbackMethod": "Pi 點數",
+                    "discount": 2,
+                    "maximumFeedback": null,
+                    "cardImageUrl": "https://imgur.com/396Npob.jpg",
+                    "limitTime": "2020/12/31"
+                },
+                {
+                    "cardName": "新光-寰宇現金回饋卡",
+                    "cardContent": "綁定台灣PAY",
+                    "feedbackMethod": "現金",
+                    "maximumFeedback": 5000,
+                    "discount": 8.5,
+                    "cardImageUrl": "https://imgur.com/PSXWsiq.jpg",
+                    "limitTime": "2020/12/31"
+                },
+                {
+                    "cardName": "北富-台哥大悠遊聯名卡",
+                    "cardContent": "綁定\"Wali錢包\", 需使用android+NFC的手機",
+                    "feedbackMethod": "現金",
+                    "maximumFeedback": 5000,
+                    "discount": 6,
+                    "cardImageUrl": "https://imgur.com/n6hjAuL.jpg",
+                    "limitTime": "2020/12/31"
+                },
+                {
+                    "cardName": "永豐-幣倍卡",
+                    "cardContent": null,
+                    "feedbackMethod": "現金",
+                    "discount": 8,
+                    "maximumFeedback": 600,
+                    "cardImageUrl": "https://imgur.com/sG0RdsJ.jpg",
+                    "limitTime": null
+                },
+                {
+                    "cardName": "彰銀-MY樂現金回饋卡",
+                    "cardContent": "Pay 7.0% + 國內0.5%,上限150.",
+                    "feedbackMethod": "現金",
+                    "discount": 7.5,
+                    "maximumFeedback": 150,
+                    "cardImageUrl": "https://imgur.com/jYISbRF.jpg",
+                    "limitTime": null
+                },
+                {
+                    "cardName": "花旗-饗樂卡",
+                    "cardContent": "威秀, 周一~周四-2D、3D 享6折優惠(當日限購2張.). \n 周一~周四-IMAX 享75折優惠(最多限購4張.). \n 週五至週日及國定假日或連續假期=>享83折優惠. (最多限購4張.) ",
+                    "feedbackMethod": "現金",
+                    "discount": 40,
+                    "maximumFeedback": null,
+                    "cardImageUrl": "https://imgur.com/KfZNFuN.jpg",
+                    "limitTime": null
+                },
+                {
+                    "cardName": "台中-台中銀行卡",
+                    "cardContent": "新光影城, 天天享66折優惠(當日限購2張.)",
+                    "feedbackMethod": "現金",
+                    "discount": 33,
+                    "maximumFeedback": null,
+                    "cardImageUrl": "https://imgur.com/KAM3uW4.jpg",
+                    "limitTime": null
+                },
+                {
+                    "cardName": "聯邦-微風聯名卡",
+                    "cardContent": "國賓影城, 平日6折起, 每人每卡每日限購當日場次2張.",
+                    "feedbackMethod": "現金",
+                    "discount": 40,
+                    "maximumFeedback": null,
+                    "cardImageUrl": "https://imgur.com/yswm00F.jpg",
+                    "limitTime": "2020/12/31"
+                }
+            ]
+        }
+    ]
+}
