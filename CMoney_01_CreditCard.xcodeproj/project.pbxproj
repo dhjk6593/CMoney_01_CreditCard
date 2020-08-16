@@ -47,6 +47,7 @@
 /* Begin PBXFileReference section */
 		BD0E199124E837D600F73CED /* card.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = card.json; sourceTree = "<group>"; };
 		BD0E199324E83FBE00F73CED /* Discounts.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Discounts.swift; sourceTree = "<group>"; };
+		BD0E199524E99D1000F73CED /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		BD50791024DC4B920083ACF9 /* CMoney_01_CreditCard.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CMoney_01_CreditCard.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		BD50791324DC4B920083ACF9 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		BD50791524DC4B920083ACF9 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -99,6 +100,7 @@
 		BD50790724DC4B910083ACF9 = {
 			isa = PBXGroup;
 			children = (
+				BD0E199524E99D1000F73CED /* README.md */,
 				BD50791224DC4B920083ACF9 /* CMoney_01_CreditCard */,
 				BD50792724DC4B960083ACF9 /* CMoney_01_CreditCardTests */,
 				BD50793224DC4B960083ACF9 /* CMoney_01_CreditCardTestsUITests */,
